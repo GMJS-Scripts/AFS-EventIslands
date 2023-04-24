@@ -2,7 +2,7 @@ local Settings =  {
   Island1 = ""
   Island2 = "" 
 }
-
+--Hello
 print("executed")
 print("JS SCRIPT INJECTED BY GAME")
 game.workspace.Worlds.DBZ.WorldGate.TargetWorld.Value = Island1
