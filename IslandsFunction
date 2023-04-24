@@ -1,0 +1,13 @@
+Island1 = ""
+Island2 = ""
+
+print("executed")
+print("JS SCRIPT INJECTED BY GAME")
+game.workspace.Worlds.DBZ.WorldGate.TargetWorld.Value = Island1
+game.workspace.Worlds.Naruto.WorldGate.TargetWorld.Value = Island2
+print("SUCESS")
+while wait(7.5) do
+    print("CREATED BY GMJS!!")
+    print("USE PHYSICAL PORTAL IN DRAGON BALL(FIRST WORLD) TO GO TO SUMMER ISLAND!!!")
+    print("USE PHYSICAL PORTAL IN NARUTO(SECOND WORLD) TO GO TO HALLOWEEN ISLAND!!!")
+end
