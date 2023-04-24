@@ -10,5 +10,6 @@ local Timer = 1
     print("USE PHYSICAL PORTAL IN NARUTO(SECOND WORLD) TO GO TO HALLOWEEN ISLAND!!!")
     wait("15")
 Timer = 15
+print("This message will appear every 15 seconds")
 end
 
