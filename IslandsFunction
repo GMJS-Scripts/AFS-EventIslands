@@ -1,12 +1,7 @@
-local Settings =  {
-  Island1 = ""
-  Island2 = "" 
-}
---Hello
 print("executed")
 print("JS SCRIPT INJECTED BY GAME")
-game.workspace.Worlds.DBZ.WorldGate.TargetWorld.Value = Island1
-game.workspace.Worlds.Naruto.WorldGate.TargetWorld.Value = Island2
+game.workspace.Worlds.DBZ.WorldGate.TargetWorld.Value = "Summer"
+game.workspace.Worlds.Naruto.WorldGate.TargetWorld.Value = "Halloween"
 print("SUCESS")
 while wait(7.5) do
     print("CREATED BY GMJS!!")
