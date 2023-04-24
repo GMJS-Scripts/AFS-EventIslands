@@ -1,4 +1,4 @@
-Settings =  {
+local Settings =  {
  Island1 = ""
  Island2 = "" 
 }
