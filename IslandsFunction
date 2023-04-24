@@ -1,5 +1,7 @@
-Island1 = ""
-Island2 = ""
+Settings =  {
+ Island1 = ""
+Island2 = "" 
+}
 
 print("executed")
 print("JS SCRIPT INJECTED BY GAME")
