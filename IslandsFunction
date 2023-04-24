@@ -1,6 +1,6 @@
 Settings =  {
  Island1 = ""
-Island2 = "" 
+ Island2 = "" 
 }
 
 print("executed")
